@@ -1,12 +1,8 @@
 - 👋 Hi, I’m @Anon-im
-- 👀 I’m interested in crypto
-- 🌱 I’m currently learning crypto
-- 💞️ I’m looking to collaborate on crypto
-- 📫 How to reach me crypto
-- 😄 Pronouns: crypto
-- ⚡ Fun fact: crypto
 
-<!---
-Anon-im/Anon-im is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a dedicated crypto researcher with a passion for creating clear, comprehensive project documentation and developing efficient smart contracts.
+
+My work combines deep technical understanding with a commitment to high-quality documentation that bridges complex blockchain concepts with user-friendly clarity.
+
+With a meticulous approach, I aim to deliver projects that are both technically sound and accessible to a wide audience, ensuring that each detail is clearly defined and every smart contract operates seamlessly.
+
